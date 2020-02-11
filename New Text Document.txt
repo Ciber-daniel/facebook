@@ -1,0 +1,25 @@
+<div class="form_container">
+            <div class="registration_text">
+                <h1>Registrate</h1>
+                <span>Es rápido y fácil.</span>
+            </div>
+            <div class="inputs_registration">
+                <div class="section">
+                    <div class="input_name">
+                        <form action="">
+                            <input type="text">
+                        </form>
+                    </div>
+                    <div class="input_familyname">
+                        <form action="">
+                            <input type="text">
+                        </form>
+                    </div>
+                </div>
+                <div class="input_email">
+                    <form action="">
+                        <input type="text">
+                    </form>
+                </div>
+            </div>
+        </div>
